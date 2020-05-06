@@ -15,7 +15,7 @@ weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
 
 
 def choice(prompt, choices=('y', 'n')):
-    """Return a valid input from the user given an array of possible answers.
+    """Return a valid input from the user given an array of possible answers. this is a docstring
     """
 
     while True:
