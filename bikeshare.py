@@ -316,7 +316,7 @@ def raw_data(df, mark_place):
         break
 
     return mark_place
-
+# main function that dosen't take any arguments
 
 def main():
     while True:
