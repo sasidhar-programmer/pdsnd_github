@@ -13,7 +13,7 @@ months = ('january', 'february', 'march', 'april', 'may', 'june')
 weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
             'saturday')
 
-
+# choice function created 
 def choice(prompt, choices=('y', 'n')):
     """Return a valid input from the user given an array of possible answers. this is a docstring
     """
@@ -37,7 +37,7 @@ def choice(prompt, choices=('y', 'n')):
                   "be sure to enter a valid option:\n>")
 
     return choice
-
+# get_filetrs comment 
 
 def get_filters():
     """Ask user to specify city(ies) and filters, month(s) and weekday(s).
